@@ -15,7 +15,7 @@ body {
   box-sizing: border-box;
 }
 .movie-card {
-  background:   #fff;
+  background: #fff;
   padding: 0;
   border: none;
   border-radius: 10px;
@@ -73,7 +73,6 @@ body {
 .footer .stars{
   width: 20px;
   height: 20px;
-  flex:1
 }
 .footer .star-dis {
   font-size: 20px;
